@@ -11,3 +11,4 @@ How this Project script works:
 3. While interfering this packets, the firewall detects for authorized packets which are
    pre-programmed to the script to find such packets.
 4. After this, the firewall will stop those packets from entering the system or network like an Intrusion Detection System.
+5. The responses are been tracked and stored in a text file as a report.
